@@ -1,3 +1,9 @@
  thing1
 thing2
 A. Cat
+ thing1
+ thing1
+thing2
+A. Cat
+thing2
+A. Cat
